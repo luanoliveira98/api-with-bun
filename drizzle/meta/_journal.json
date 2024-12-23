@@ -15,6 +15,20 @@
       "when": 1734977453789,
       "tag": "0001_redundant_anita_blake",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1734979249821,
+      "tag": "0002_chunky_giant_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1734979304722,
+      "tag": "0003_warm_lady_ursula",
+      "breakpoints": true
     }
   ]
 }
