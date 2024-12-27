@@ -43,8 +43,11 @@ export const getOrderDetailsRoute = new Elysia().use(auth).get(
           },
         },
       },
-      where(fields, { eq }) {
-        return eq(fields.id, orderId)
+      where(fields, { eq, and }) {
+        return and(
+          eq(fields.id, orderId),
+          eq(fields.restaurantId, restaurantId),
+        )
       },
     })
 
