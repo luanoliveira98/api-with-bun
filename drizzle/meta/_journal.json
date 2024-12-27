@@ -43,6 +43,13 @@
       "when": 1735325592406,
       "tag": "0005_bouncy_stingray",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1735326240869,
+      "tag": "0006_faulty_red_skull",
+      "breakpoints": true
     }
   ]
 }
